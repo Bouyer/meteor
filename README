@@ -1,0 +1,13 @@
+initialisation
+git remote add origin https://github.com/Bouyer/meteor.git 
+git init
+
+avant de commencer à bosser
+git pull origin master
+
+
+Un fois le travail fini
+git add .
+git commit -m "message "
+git push -u origin master
+
